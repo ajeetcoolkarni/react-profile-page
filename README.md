@@ -1,2 +1,2 @@
-# react-profile-page
+# profile-page
 Created with CodeSandbox
